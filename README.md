@@ -55,4 +55,4 @@ When we focus on the response score in the five categories, the technology and h
 
 <ins>It may be worth considering a strategy to further develop content related to the high-scoring categories to elicit positive responses and improve brand image and viewer loyalty. (So what)</ins>
 
-<ins>The content distribution that follows seasonal trends, such as increasing content in related categories for specific times of the year, is expected to attract viewers at the right time and effectively increase engagement (So What). </ins>
+<ins>The content distribution that follows seasonal trends, such as increasing content in related categories for specific times of the year, is expected to attract viewers at the right time and effectively increase engagement. (So What) </ins>
