@@ -48,7 +48,6 @@ Here’s a concise summary of your dashboard components:
 
 ![Screenshot 2025-01-02 at 7 30 33 PM](https://github.com/user-attachments/assets/79c7f16a-7ae5-4f78-899c-697a1b497b75)
 
-
 ### <ins>Share Phase</ins>
 With the Animal and Science categories dominating, <ins>there is potential to increase audience engagement by adding more category-focused content and continuing to capture existing interest. (So what)</ins>
 
