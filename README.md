@@ -1,4 +1,4 @@
-# Social Buzz Analysis Project
+# **Social Buzz Analysis Project**
 
 ## **Project Overview**
 The Social Buzz project for Accenture involves analyzing datasets related to content types, reactions, and reaction scores using Excel. The goal is to identify the top five content categories with the highest audience engagement. The analysis includes data cleaning, integration, and visualizations such as pie charts and bar graphs to provide insights and recommendations for improving content strategy and audience engagement.
