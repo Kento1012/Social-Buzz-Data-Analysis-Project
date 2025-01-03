@@ -48,9 +48,10 @@ Here’s a concise summary of your dashboard components:
  * Bar Chart: Shows the average reaction score per category, making it easy to identify which categories received the highest scores.
  * Line Graph with Pivot Table: Tracks the monthly count of each Reaction_Type by category. This focuses on the number of reactions (not scores) over time, providing insights into   engagement trends.
 
+### <ins>Share Phase</ins>
+
 ![Screenshot 2025-01-02 at 7 30 33 PM](https://github.com/user-attachments/assets/79c7f16a-7ae5-4f78-899c-697a1b497b75)
 
-### <ins>Share Phase</ins>
 With the Animal and Science categories dominating, <ins>there is potential to increase audience engagement by adding more category-focused content and continuing to capture existing interest. (So what)</ins>
 
 When we focus on the response score in the five categories, the technology and healthy eating categories have higher average scores than the others, indicating that the audience favorably receives them. This suggests the potential for increased positive engagement.
